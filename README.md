@@ -33,8 +33,8 @@ Open the script and edit:
 address = "Dubai,UAE" # Add your location in the following format "City,Country"
 method = "3"          # Choode your calculation method based on your location
 ```
-You can find all available methods here:\
-[text](https://api.aladhan.com/v1/methods)
+You can find all available methods here:
+[AlAdhan API Calculation Methods](https://api.aladhan.com/v1/methods)
 
 Add this module to config.jsonc
 ```jsonc
