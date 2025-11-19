@@ -34,7 +34,7 @@ address = "Dubai,UAE" # Add your location in the following format "City,Country"
 method = "3"          # Choode your calculation method based on your location
 ```
 You can find all available methods here:\
-[text](https://api.aladhan.com/v1/methods)\
+[text](https://api.aladhan.com/v1/methods)
 
 Add this module to config.jsonc
 ```jsonc
@@ -54,5 +54,5 @@ Add this to style.css
 ```
 
 ## References
-AlAdhan API: [text](https://aladhan.com/prayer-times-api)\
-Calculation Methods: [text](https://api.aladhan.com/v1/methods)\
+AlAdhan API: [AlAdhan API](https://aladhan.com/prayer-times-api)
+Calculation Methods: [AlAdhan API Calculation Methods](https://api.aladhan.com/v1/methods)
