@@ -54,5 +54,5 @@ Add this to style.css
 ```
 
 ## References
-AlAdhan API: [AlAdhan API](https://aladhan.com/prayer-times-api)
-\Calculation Methods: [AlAdhan API Calculation Methods](https://api.aladhan.com/v1/methods)
+AlAdhan API: [AlAdhan API](https://aladhan.com/prayer-times-api)  
+Calculation Methods: [AlAdhan API Calculation Methods](https://api.aladhan.com/v1/methods)
